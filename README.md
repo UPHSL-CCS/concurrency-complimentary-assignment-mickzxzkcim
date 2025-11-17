@@ -29,6 +29,7 @@ python concurrent_printer.py
 
 You will see the output of the numbers and letters interleaved, demonstrating how the threads share the CPU time (the exact order may vary depending on your system's scheduling):
 
+```text 
 Printing number 1
 Printing letter C
 Printing number 2
