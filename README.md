@@ -1,4 +1,4 @@
-#Python Concurrency Demo: Improving Responsiveness (Updated)
+#Python Concurrency Demo: Improving Responsiveness (Real world Example)
 --
 This Python script uses the built-in threading module to demonstrate concurrency—the ability for a system to handle multiple tasks seemingly at the same time. This interleaving makes applications feel significantly more responsive.
 
